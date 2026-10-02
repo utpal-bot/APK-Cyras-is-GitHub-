@@ -4,8 +4,8 @@ package.name = cyras
 package.domain = org.cyras
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
-version = 0.1
-requirements = python3,kivy,plyer
+version = 0.2
+requirements = python3,kivy==2.2.1,plyer,pyjnius
 orientation = portrait
 fullscreen = 1
 
